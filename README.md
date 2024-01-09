@@ -1,1 +1,1 @@
-# fundamentos_de_dise-o
+# fundamentos_de_diseño
