@@ -3,11 +3,8 @@
 | **FOTO** | **ESTUDIANTE** | 
 |----------|----------|
 | ![Imagen de un gato](https://www.example.com/cat.jpg)    | Jefferson Juvenal Huiza Quispe
-
 Estudiante del cuarto año de la carrera de Ingeniería Ambiental, interesado en el desarrollo de proyectos sostenibles.
-
 Coordinador de diseño y modelado 3D
-
 Encargado del diseño y el modelamiento del prototipo en 3D a desarrollar.
 
 jefferson.huiza@upch.pe   |
